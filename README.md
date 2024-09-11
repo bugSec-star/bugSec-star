@@ -1,20 +1,3 @@
-- 👋 Hi, 
-I'm bugSec-star, a hacker & Security Researcher. I'm on my way to becoming a Cybersecurity Specialists or a Bug hunter.
-Technology has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
-More about me
-
-    Name: hem bharti
-    From: India
-    Bug Hunter | Security Researcher 
-    i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering.
-    Improving knowledge in Website Vulnerabilities
-    I’m currently learning everything
-    Reach me out at lone.bughunter7@gmail.com
-
-
-
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
