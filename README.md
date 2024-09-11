@@ -62,7 +62,6 @@ I'm **bugSec-star**, a hacker & Security Researcher. I'm on my way to becoming a
 <details>
 <summary>Buy Me A Coffee</summary>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
 
 <p align="center"><a href="https://buymeacoffee.com/bugsec"></a></p>
 
