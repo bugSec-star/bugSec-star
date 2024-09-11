@@ -62,8 +62,7 @@ I'm **bugSec-star**, a hacker & Security Researcher. I'm on my way to becoming a
 <details>
 <summary>Buy Me A Coffee</summary>
 
-
-<p align="center"><a href="https://buymeacoffee.com/bugsec"></a></p>
+  <p align="center"><a href="https://buymeacoffee.com/bugsec"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
 
