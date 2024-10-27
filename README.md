@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **bugSec-star**, a hacker & Security Researcher. I'm on my way to becoming a **ᵦᵤ𝑔 ᵦₒᵤₙₜᵧ ⲏᵤₙₜₑᵣ**. <br>
+I'm **bugSec-star**, a hacker & Security Researcher. I'm on my way to becoming a **𝖡υ𝗀 𝖡𝗈υ𐓣𝗍ɣ 𝖧υ𐓣𝗍౿𝗋**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Bug hunter then I can protect company assests and help community.
 
 
